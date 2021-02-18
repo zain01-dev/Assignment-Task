@@ -1,5 +1,5 @@
 # NYTimes ArticlesReading App using MVVM Base Architecture App and Architectural Components
-NYTimes api usage with using new android mvvm pattern architecture
+NY Times api usage with using new android mvvm pattern architecture
 
 The application has been built with **offline support**. It has been designed using **Android Architecture components** with **Room** for offline data caching. The application is built in such a way that whenvever there is a service call, the result will be stored in local database.
 
